@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/hBhQ5Dw/CPU.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Game-does-not-launch-Intel-CPU-Fix/blob/main/CPU.png" width="200"></a>
 <h1 align="center"><b>Game does not launch - Intel 10th Gen CPU or newer</b></h1>
 <br />
 
