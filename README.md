@@ -18,11 +18,11 @@ https://www.intel.com/content/www/us/en/developer/articles/troubleshooting/opens
 
 ## Ho-To fix:
 1. Press WinKey + R to open Run window, paste: ```SystemPropertiesAdvanced```
-2. Press "OK"
-3. Next click on "Environment Variables..."
-4. In the System variables Window, press "New..."
+2. Press ```OK```
+3. Next click on ```Environment Variables...```
+4. In the System variables Window, press ```New...```
 5. Paste these Values:
 * Variable name: ```OPENSSL_ia32cap```
 * Variable value: ```~0x20000000```
-6. Press "OK" and close the Window
+6. Press ```OK``` and close the Window
 7. Restart the Computer
